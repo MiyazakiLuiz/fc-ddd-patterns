@@ -8,7 +8,7 @@ Boa sorte.
 
 * A linguagem de programação para este desafio é TypeScript
 
-### Notas ao corretor:
+### Arquivos relevantes:
 
 A implementação se encontra em:
 ```
